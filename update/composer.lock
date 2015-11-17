@@ -1,11 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "9d11c65f4ca868ddde99573861e2216f",
-    "content-hash": "d9653f6558a0463996aa6bc6a7e5a149",
+    "hash": "c7073ef2fedba5e4b025a163ba59764e",
     "packages": [
         {
             "name": "composer/composer",
@@ -146,9 +145,9 @@
             "version": "1.0.2",
             "dist": {
                 "type": "zip",
-                "url": "https://packages.magento.com/_packages/composer-1.0.2.zip",
+                "url": "https://repo.magento.com/archives/magento/composer/magento-composer-1.0.2.0.zip",
                 "reference": null,
-                "shasum": "79156c3e7317af1ff64a482ba90ec81c66b82c73"
+                "shasum": "6bfdbff4c23aace1e6d14ab598c81c790375aba0"
             },
             "require": {
                 "composer/composer": "1.0.0-alpha10",
